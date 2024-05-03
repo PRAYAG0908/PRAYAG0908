@@ -1,4 +1,5 @@
 ### Hi there 👋
+![github personal readme gif](https://github.com/PRAYAG0908/PRAYAG0908/assets/115292072/9f7a58f4-7a05-4146-877a-616e6e3598e9)
 
 <!--
 **PRAYAG0908/PRAYAG0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
