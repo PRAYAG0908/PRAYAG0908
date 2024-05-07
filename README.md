@@ -25,6 +25,12 @@ Hello Everyone👋, I'm Prayag Chavan, I'm a web developer and a cloud enthusias
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+## GITHUB STATS
+<p align="center">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PRAYAG0908&show_icons=true&theme=radical&hide_border=true&show_icons=true" />
+<img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=PRAYAG0908&theme=tokyonight&hide_border=true"  display=block width=90% height=auto alt="3" >
+</p>
+
 <!--
 **PRAYAG0908/PRAYAG0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
