@@ -25,7 +25,7 @@ Hello Everyone👋, I'm Prayag Chavan, I'm a web developer and a cloud enthusias
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princyym&label=Profile%20views&color=0e75b6&style=flat" alt="princyym" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PRAYAG0908&label=Profile%20views&color=0e75b6&style=flat" alt="views" /></p>
 
 ## GITHUB STATS
 <p align="center">
