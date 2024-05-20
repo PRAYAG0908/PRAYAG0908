@@ -30,7 +30,7 @@ Hello Everyone👋, I'm Prayag Chavan, I'm a web developer and a cloud enthusias
 ## GITHUB STATS
 <p align="center">
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PRAYAG0908&show_icons=true&theme=radical&hide_border=true&show_icons=true" />
-<img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=PRAYAG0908&theme=tokyonight&hide_border=true"  display=block width=90% height=auto alt="3" >
+<img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=PRAYAG0908&theme=tokyonight&hide_border=true" display=block width=90% height=auto alt="stats2" >
 </p>
 
 <!--
