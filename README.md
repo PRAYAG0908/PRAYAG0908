@@ -1,6 +1,8 @@
-![github personal readme gif](https://github.com/PRAYAG0908/PRAYAG0908/assets/115292072/9f7a58f4-7a05-4146-877a-616e6e3598e9)
+![image_processing20210903-27469-1fftkn8](https://github.com/user-attachments/assets/4a356ae7-78c4-4c7d-a4a3-d4b5c6c6e76b)
+<!--![github personal readme gif](https://github.com/PRAYAG0908/PRAYAG0908/assets/115292072/9f7a58f4-7a05-4146-877a-616e6e3598e9)-->
 
-Hello Everyone👋, I'm Prayag Chavan, codes python loves cloud 
+Hello Everyone👋, I'm Prayag Chavan, codes python loves cloud
+
 - 📫 How to reach me: prayag.pac@gmail.com
 
 ## CONNECT WITH ME
